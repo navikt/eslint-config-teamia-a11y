@@ -1,0 +1,1 @@
+# eslint-plugin-teamia-a11y
