@@ -1,6 +1,6 @@
 # eslint-config-teamia-a11y
 
-Setup av eslint-config-jsx-a11y med regler vi ønsker å bruke likt i alle våre prosjekter.
+Setup av eslint-plugin-jsx-a11y med regler vi ønsker å bruke likt i alle våre prosjekter.
 
 # Komme i gang
 

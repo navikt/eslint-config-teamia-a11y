@@ -1,7 +1,7 @@
 {
   "name": "@navikt/eslint-config-teamia-a11y",
   "version": "1.0.0",
-  "description": "Setup av eslint-config-jsx-a11y med regler vi ønsker å bruke likt i alle våre prosjekter.",
+  "description": "Setup av eslint-plugin-jsx-a11y med regler vi ønsker å bruke likt i alle våre prosjekter.",
   "main": "index.js",
   "files": [
     "index.js"
