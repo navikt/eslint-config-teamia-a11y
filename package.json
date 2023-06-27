@@ -1,0 +1,30 @@
+{
+  "name": "@navikt/eslint-config-teamia-a11y",
+  "version": "1.0.0",
+  "description": "Setup av eslint-config-jsx-a11y med regler vi ønsker å bruke likt i alle våre prosjekter.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navikt/eslint-config-teamia-a11y.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navikt/eslint-config-teamia-a11y/issues"
+  },
+  "homepage": "https://github.com/navikt/eslint-config-teamia-a11y#readme",
+  "peerDependencies": {
+    "eslint": ">= 8",
+    "eslint-plugin-jsx-a11y": ">= 6.7"
+  }
+}
