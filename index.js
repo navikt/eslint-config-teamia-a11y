@@ -9,6 +9,8 @@ module.exports = {
           "her",
           "klikk",
           "klikk her",
+          "trykk",
+          "trykk her",
           "lenken",
           "linken",
           "lenka",
