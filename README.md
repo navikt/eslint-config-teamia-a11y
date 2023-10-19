@@ -8,6 +8,16 @@ Hvordan bygge, teste og kjøre koden viss aktuelt.
 
 ---
 
+## Installasjon
+
+`yarn add -D @navikt/eslint-config-teamia-a11y`
+
+eller
+
+`npm install @navikt/eslint-config-teamia-a11y --save-dev`
+
+## Bruk
+
 # Henvendelser
 
 Spørsmål knyttet til koden eller prosjektet kan stilles som issues her på GitHub
