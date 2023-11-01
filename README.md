@@ -1,5 +1,9 @@
-# eslint-config-teamia-a11y
+# Ikke bruk
+Dette repoet er nå en del av [eslint-config-teamia](https://github.com/navikt/eslint-config-teamia)
 
+Det er ikke lenger noen grunn til å bruke dette repoet.
+
+# eslint-config-teamia-a11y
 Setup av eslint-plugin-jsx-a11y med regler vi ønsker å bruke likt i alle våre prosjekter.
 
 # Komme i gang
